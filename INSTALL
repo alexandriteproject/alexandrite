@@ -1,0 +1,9 @@
+Building Alexandrite
+
+See doc/readme-qt.rst for instructions on building Alexandrite QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Alexandrite.
+
+See doc/build-*.txt for instructions on building Alexandrited,
+the intended-for-services, no-graphical-interface, reference
+implementation of Alexandrite.
